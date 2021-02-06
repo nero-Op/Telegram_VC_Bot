@@ -7,3 +7,5 @@ requests
 youtube_search
 aiohttp
 aiofiles
+pulseaudio
+mpv
