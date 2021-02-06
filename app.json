@@ -21,21 +21,26 @@
          "required": true,
          "value": "1563090948:AAFR5zoKHGAXeX29nBu4o00DH8GCG2h4pd8"
       },
+   "env": {
+      "sudo_chat_id": {
+         "description": "Make an group and Enter its group id",
+         "required": true,
+         "value": "1001340205063"
+      },
       "API_ID": {
          "description": "Get API_ID from my.telegram.org, used for telethon based modules.",
          "required": true,
-         "value": ""
+         "value": "1423797"
       },
       "API_HASH": {
          "description": "Get API_HASH from my.telegram.org, used for telethon based modules.",
          "required": true,
-         "value": ""
+         "value": "25b825e1ab5ec075d8e07e6e598bd017"
       },
-      
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "792109647"
+         "value": "1154348892"
       }
       
    }
