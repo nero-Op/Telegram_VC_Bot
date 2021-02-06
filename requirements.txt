@@ -7,5 +7,5 @@ requests
 youtube_search
 aiohttp
 aiofiles
-pulseaudio
+PyAudio
 mpv
