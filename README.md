@@ -74,6 +74,7 @@ Admin Commands:
 1. More services will be added soon.
 2. Termux is not completely supported yet, might take a week or two.
 3. If you want any help you can ask [here](https://t.me/PatheticProgrammers)
+4. [heroku](https://heroku.com/deploy?template=https://github.com/MrBhavya/Telegram_VC_Bot.git)
 
 ## Credits
 1. `https://github.com/cyberboysumanjay/JioSaavnAPI` [For JioSaavnAPI]
