@@ -21,7 +21,6 @@
          "required": true,
          "value": "1563090948:AAFR5zoKHGAXeX29nBu4o00DH8GCG2h4pd8"
       },
-   "env": {
       "sudo_chat_id": {
          "description": "Make an group and Enter its group id",
          "required": true,
@@ -42,6 +41,5 @@
          "required": true,
          "value": "1154348892"
       }
-      
    }
 }
