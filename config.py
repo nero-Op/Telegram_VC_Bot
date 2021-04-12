@@ -1,4 +1,4 @@
-bot_token = "1563090948:AAFR5zoKHGAXeX29nBu4o00DH8GCG2h4pd8"
+bot_token = "1705003613:AAEOzLYBfKxfnbV4NPZzTr5AAmewtSNgg9E"
 radio_link = "http://peridot.streamguys.com:7150/Mirchi"
-sudo_chat_id = -1001340205063
-owner_id = 1154348892
+sudo_chat_id = -1317798457
+owner_id = 652535959
